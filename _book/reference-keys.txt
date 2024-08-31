@@ -12,6 +12,9 @@ productos-financieros-de-primer-piso
 servicios-no-financieros
 introducción-2
 responsabilidad-crediticia
+requisitos-del-crédito-productivo
+condiciones-del-crédito
+consecuencias-por-incumplimiento-en-el-crédito
 educacion-financiera-inclusiva-derechos-de-los-prestatarios-y-punto-de-reclamo
 educacion-financiera-inclusiva-obligaciones-de-los-prestatarios-y-cuidados-que-deben-tener
 alternativas-de-financiamiento-y-pago-de-un-crédito
