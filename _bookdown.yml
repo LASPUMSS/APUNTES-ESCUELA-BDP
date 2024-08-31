@@ -4,5 +4,30 @@ language:
     chapter_name: "Chapter "
 rmd_files: ["index.Rmd",
 
-            "01-intro.Rmd",
+            "inst/Rmds/100-modulo-intro.Rmd",
+            "inst/Rmds/101-modulo.Rmd",
+            "inst/Rmds/102-modulo.Rmd",
+            "inst/Rmds/103-modulo.Rmd",
+            "inst/Rmds/104-modulo.Rmd",
+            "inst/Rmds/105-modulo.Rmd",
+
+            "inst/Rmds/200-modulo-intro.Rmd",
+            "inst/Rmds/201-modulo.Rmd",
+            "inst/Rmds/202-modulo.Rmd",
+            "inst/Rmds/203-modulo.Rmd",
+            "inst/Rmds/204-modulo.Rmd",
+            "inst/Rmds/205-modulo.Rmd",
+
+            "inst/Rmds/300-modulo-intro.Rmd",
+            "inst/Rmds/301-modulo-responsabilidad.Rmd",
+            "inst/Rmds/302-modulo.Rmd",
+            "inst/Rmds/303-modulo.Rmd",
+            "inst/Rmds/304-modulo.Rmd",
+            "inst/Rmds/305-modulo.Rmd",
+            "inst/Rmds/306-modulo.Rmd",
+
+
+            "inst/Rmds/000-references.Rmd",
+
+
 ]
