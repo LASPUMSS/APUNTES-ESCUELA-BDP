@@ -1,1 +1,36 @@
 # Garantias
+
+En capítulo se estructura en los siguientes elementos listados a continuación:
+
+- Garantía
+- Tipos de garantía
+- Garantías no convencionales
+- Tipos de garantías no convencionales
+- Valoración de las garantías no convencionales
+- Sistema de registro de garantías no convencionales SRGNC
+
+## Garantía 
+
+### ¿Qué es la garantía?
+
+Es el respaldo que otorga el cliente para asegurar que cumplirá con el pago de la deuda. La garantía puede ser: personal, bienes muebles (maquinaria, equipo, otros), inmuebles (casa, terreno, otros), vehículos y otros.
+
+### ¿Para qué sirve la garantía?
+
+Sirve para que la Entidad Financiera recupere el crédito que ha otorgado en caso de que el prestatario o los prestatarios no paguen la deuda.
+
+La garantía debe tener un valor igual o mayor al crédito solicitado para poder cubrirlo. La Entidad Financiera define si la garantía es suficiente.
+
+La relación Garantía - Deuda, es determinada de acuerdo a las políticas de cada Entidad Financiera
+
+
+## Tipos de garantía
+
+## Garantías no convencionales
+
+## Tipos de garantías no convencionales
+
+## Valoración de las garantías no convencionales
+
+## Sistema de registro de garantías no convencionales SRGNC
+
