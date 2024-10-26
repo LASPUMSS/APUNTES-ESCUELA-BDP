@@ -3,9 +3,9 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">ESCUELA DE FORMACIÓN BDP</a></li>
+        <li><a href="./"><strong>ESCUELA DE FORMACION BDP</strong></a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Publicado en GitHub</a></li>
+        <li><a href="https://github.com/LASPUMSS/APUNTES-ESCUELA-BDP" target="blank"><strong>Publicado en GitHub</strong></a></li>
     edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:

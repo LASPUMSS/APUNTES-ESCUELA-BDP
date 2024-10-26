@@ -1,7 +1,10 @@
 delete_merged_file: true
+output_dir: "docs"
 language:
+  label:
+    tab: 'Tabla '
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Capítulo "
 rmd_files: ["index.Rmd",
 
             "inst/Rmds/100-modulo-intro.Rmd",
